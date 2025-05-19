@@ -5,6 +5,8 @@
 A modern Python package and dependency manager supporting the latest PEP standards.
 [中文版本说明](README_zh.md)
 
+https://calculateatar.com/
+
 ![PDM logo](https://raw.githubusercontent.com/pdm-project/pdm/main/docs/assets/logo_big.png)
 
 [![Docs](https://img.shields.io/badge/Docs-mkdocs-blue?style=for-the-badge)](https://pdm-project.org)
